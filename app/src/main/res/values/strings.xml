@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">simpleApp</string>
+    <string name="login">Вход</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_login">Логин</string>
+    <string name="send">Отправить</string>
+</resources>
